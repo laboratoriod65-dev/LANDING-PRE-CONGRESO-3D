@@ -13,8 +13,8 @@ button, input, select { font:inherit; }
 .logo-divider { width:1px; height:40px; background:rgba(255,255,255,.25); flex:0 0 auto; }
 .nav-main-logo { width:190px !important; flex:0 0 auto; }
 .partner-logo { display:block; object-fit:contain; flex:0 0 auto; }
-.humbe-logo { width:78px; height:64px; }
-.mazz-logo { width:58px; height:78px; }
+.humbe-logo { width:126px; height:104px; }
+.mazz-logo { width:74px; height:104px; }
 .brand { display:flex; align-items:center; gap:10px; font-size:10px; line-height:1.05; letter-spacing:.08em; font-weight:700; }
 .brand b { font-size:18px; letter-spacing:.18em; }
 .brand-mark { width:44px; height:44px; display:grid; place-items:center; border:2px solid var(--cyan); color:var(--cyan); border-radius:50% 50% 46% 54%; transform:rotate(-5deg); font-size:12px; letter-spacing:-.07em; font-weight:900; }
